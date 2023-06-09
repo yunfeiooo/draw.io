@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T08:08:41.614Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ICmG2C6fvX1_FHdIfQZZ" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-09T08:09:55.764Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="8NhQ4pSFsQhtjc_lx5mX" version="21.3.5" type="github">
   <diagram name="第 1 页" id="HYZAaRW8ASHUZ5Ly0_5t">
     <mxGraphModel dx="1302" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
         <mxCell id="HpYP5ybebZDDmazZ3Tuc-48" value="denoising process" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="498" y="620" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HpYP5ybebZDDmazZ3Tuc-13" value="Diffusion Model&lt;br&gt;(UNet)" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="HpYP5ybebZDDmazZ3Tuc-13" value="Noise Predictor&lt;br&gt;(UNet)" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="348" y="450" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
