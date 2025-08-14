@@ -157,6 +157,14 @@
         <mxCell id="XQ58RHuz3fzO0AU-IGTR-81" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#FF3333;strokeColor=#FF3333;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;container=0;direction=west;" vertex="1" parent="1">
           <mxGeometry x="1820" y="1410" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="XQ58RHuz3fzO0AU-IGTR-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" edge="1" parent="1" source="XQ58RHuz3fzO0AU-IGTR-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1614" y="1690.0000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XQ58RHuz3fzO0AU-IGTR-103" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#3333FF;strokeColor=#3333FF;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;container=0;direction=east;flipH=0;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="1514" y="1670" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
