@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.3">
   <diagram name="第 1 页" id="dXZGyjnHhisNERHfw-04">
-    <mxGraphModel dx="3685" dy="4447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2896" dy="3995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1843,6 +1843,25 @@
             <mxPoint x="190" y="20" as="sourcePoint" />
             <mxPoint x="90" y="20" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EIHX50j-TYQ4aLhyLfEl-219" value="双向摄像头" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1088" y="3019" width="87" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EIHX50j-TYQ4aLhyLfEl-220" value="" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#FFFF66;strokeColor=#6c8ebf;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1063" y="3017" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EIHX50j-TYQ4aLhyLfEl-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;strokeWidth=3;dashed=1;" edge="1" parent="1" source="EIHX50j-TYQ4aLhyLfEl-221">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="3900.000000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="970" y="4058" />
+              <mxPoint x="970" y="3800" />
+              <mxPoint x="660" y="3800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EIHX50j-TYQ4aLhyLfEl-221" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;strokeWidth=3;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1176" y="4000" width="1250" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
